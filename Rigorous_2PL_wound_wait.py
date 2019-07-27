@@ -2,7 +2,6 @@
 This project that simulates the rigorous 2_Phase_locking with wound-wait protocol is done as a part of CSE 5331-001 Summer 2019
 Authors :
 Shakthi Prakash Thiruvathilingam (1001518112)
-Sagar Sharma (1001626958)
 
 #Reference Source:
 #https://stackoverflow.com/questions/16333296/how-do-you-create-nested-dict-in-python
